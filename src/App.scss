@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  .table-jobs{
+    border-collapse: collapse;
+    text-align: center;
+  }
+  .table-head{
+    background-color: aquamarine;
+  }
+}
